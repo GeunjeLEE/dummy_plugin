@@ -1,1 +1,1 @@
-test build dev
+build dev
